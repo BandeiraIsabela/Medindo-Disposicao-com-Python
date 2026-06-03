@@ -133,7 +133,7 @@ Horas de Sono
 Qualidade do Sono
 Esforço Físico
 
-Objetivo:
+## Objetivo:
 
 Validar a arquitetura fuzzy.
 Testar o mecanismo de inferência.
@@ -146,7 +146,7 @@ Novas variáveis adicionadas:
 Qualidade da Alimentação
 Nível de Estresse
 
-Melhorias:
+## Melhorias:
 
 Maior precisão dos resultados.
 Regras mais realistas.
@@ -163,7 +163,7 @@ Defuzzificação pelo método do Centroide.
 
 O resultado final é um valor numérico entre 0 e 100 que representa o nível de disposição estimado.
 
-Resultados
+## Resultados
 
 Foram realizados aproximadamente 40 cenários de teste para validar o comportamento do sistema.
 
@@ -178,7 +178,7 @@ Estrutura do Projeto
 ├── Relatório Final.pdf
 ├── README.md
 
-Como Executar
+## Como Executar
 1. Clone o repositório
 git clone https://github.com/seu-usuario/projeto-fuzzy-disposicao.git
 2. Instale as dependências
@@ -200,7 +200,7 @@ Assistentes pessoais inteligentes;
 Sistemas híbridos Neuro-Fuzzy.
 Equipe
 
-Grupo 07 – Inteligência Artificial II
+## Grupo 07 – Inteligência Artificial II
 
 Bianca Melliny de Lima Vaz
 Guilherme Fernandes Rezende
